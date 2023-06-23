@@ -1,5 +1,6 @@
 # pixelsWar
 Little pixel drawing fighting game with your friends, with node.js and p5js
+From a project by Daniel Shiffman : https://thecodingtrain.com/tracks/web-sockets-and-p5js 
 
 
 - install node.js
